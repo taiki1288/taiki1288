@@ -1,4 +1,10 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiki1288&show_icons=true&theme=radical)
+
+
+
+
+
 
 <!--
 **taiki1288/taiki1288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
