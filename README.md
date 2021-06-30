@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiki1288&show_icons=true&theme=radical)
 
 
 
