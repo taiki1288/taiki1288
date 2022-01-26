@@ -1,9 +1,4 @@
 ### Hi there 👋
-<p align="left"> 
-  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiki1288&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=taiki1288&theme=radical&show_icons=ture" />
-</p>
-
 
 
 
